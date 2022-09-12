@@ -1,4 +1,4 @@
-![Ed-Fi Exchange logo](images/ed-fi-exchange.png)
+![Ed-Fi Exchange logo](ed-fi-exchange.png)
 
 The Ed-Fi Exchange is a technology hub for community contributions aligned to the Ed-Fi Data Standard and Implementation Suite. Find out [how it works](https://techdocs.ed-fi.org/display/EXCHANGE/How+it+Works) and [how to contribute](https://techdocs.ed-fi.org/display/EXCHANGE/How+to+Contribute).
 
